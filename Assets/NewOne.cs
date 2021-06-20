@@ -15,4 +15,11 @@ public class NewOne : MonoBehaviour
     {
         
     }
+
+    private void ChangeCode()
+    {
+        Debug.Log("asdf");
+    }
+
+
 }
